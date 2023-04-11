@@ -1,0 +1,1 @@
+declare "styled-components";
