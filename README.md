@@ -15,10 +15,16 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## Learn More
-src - root folder of the project
+src - root folder of the project.
+
 assets - Image folder
+
 components - Reusable feature component used throughout project
+
 features - Main feature of the project
+
 types - Typescript ( Prop types, data types)
+
 ui - Reusable components like button, dropdown, image
+
 views - routing pages
